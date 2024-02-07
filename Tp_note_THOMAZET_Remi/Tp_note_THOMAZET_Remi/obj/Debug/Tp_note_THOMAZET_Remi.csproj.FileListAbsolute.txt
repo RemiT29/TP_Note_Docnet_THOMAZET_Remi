@@ -1,0 +1,7 @@
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\bin\Debug\Tp_note_THOMAZET_Remi.exe.config
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\bin\Debug\Tp_note_THOMAZET_Remi.exe
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\bin\Debug\Tp_note_THOMAZET_Remi.pdb
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\obj\Debug\Tp_note_THOMAZET_Remi.csproj.AssemblyReference.cache
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\obj\Debug\Tp_note_THOMAZET_Remi.csproj.CoreCompileInputs.cache
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\obj\Debug\Tp_note_THOMAZET_Remi.exe
+C:\Users\fabie\Desktop\Ecole d'ingé\F2\DocNet\TP_Noté\Tp_note_THOMAZET_Remi\Tp_note_THOMAZET_Remi\obj\Debug\Tp_note_THOMAZET_Remi.pdb
